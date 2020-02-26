@@ -1,7 +1,9 @@
-<html>
+<html lang="<?php get_locale() ?>">
 <?php get_header(); ?>
 <body>
     <?php get_sidebar(); ?>
+
+    <h1 style="color: #F23456">Index template</h1>
 
     <main>
         <?php if (have_posts()) :  ?>
