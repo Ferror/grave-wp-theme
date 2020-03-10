@@ -1,4 +1,4 @@
-<html lang="<?php get_locale() ?>">
+<html lang="<?php get_locale(); ?>">
 <?php get_header(); ?>
 <body>
     <?php get_sidebar(); ?>

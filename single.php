@@ -1,4 +1,4 @@
-<html lang="<?php get_locale() ?>">
+<html lang="<?php get_locale(); ?>">
 <?php get_header(); ?>
 <body>
     <?php get_sidebar(); ?>
@@ -12,7 +12,7 @@
             </header>
 
             <?php the_post(); ?>
-            <?php the_content() ?>
+            <?php the_content(); ?>
         </article>
     </main>
 

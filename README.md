@@ -1,3 +1,7 @@
-# Grave's framework wordpress theme
+# Grave
+## Wordpress theme
 
-## Progress
+### Todo
+- [] Customizable footer (url, author-name)
+- [] Customizable author page (image, author-name, description)
+- [] 404 page
