@@ -2,6 +2,6 @@
 ## Wordpress theme
 
 ### Todo
-- [ ] Customizable footer (url, author-name)
+- [X] Customizable footer (url, author-name)
 - [ ] Customizable author page (image, author-name, description)
 - [ ] 404 page
